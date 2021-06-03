@@ -14,7 +14,7 @@ Bâng quơ anh hỏi có cùng đường mơ
 
 Tình anh quấn quýt trong thơ
 Này em thế đã ngẩn ngơ động lòng?`,
-    btnIntro: 'hihi',
+    btnIntro: '<3',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Yêu anh <33',
@@ -24,6 +24,6 @@ Này em thế đã ngẩn ngơ động lòng?`,
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'chiều nay 6h anh qua đón em nha công chúa. :3',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Dạaaaaaaaaa <3',
     messLink: 'https://www.messenger.com/t/100034234552894/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
