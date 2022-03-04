@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Gửi Mỹ Vân siêu xinh đẹp siêu cấp vũ trụ :3',
+    introTitle: 'Gửi crush',
     introDesc: `Mưa đan ngàn sợi bên đời
 Mưa không nhắn đủ một lời yêu em
 
