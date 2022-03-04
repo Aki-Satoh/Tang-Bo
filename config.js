@@ -25,5 +25,5 @@ Này em thế đã ngẩn ngơ động lòng?`,
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'chiều nay 6h anh qua đón em nha công chúa. :3',
     btnAccept: 'Dạaaaaaaaaa <3',
-    messLink: 'https://m.me/Thanhhau.MyVan.01234' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/Thanhhau.2284' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
